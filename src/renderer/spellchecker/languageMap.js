@@ -100,6 +100,9 @@ const HUNSPELL_DICTIONARY_LANGUAGE_MAP = Object.freeze([{
   label: 'Magyar', // Hungarian
   value: 'hu-HU'
 }, {
+  label: 'Հայերեն', // Armenian
+  value: 'hy-AM'
+}, {
   label: 'Bahasa Indonesia', // Indonesian
   value: 'id-ID'
 }, {
